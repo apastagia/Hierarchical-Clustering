@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+Dataset link - https://www.kaggle.com/kondapuramshivani/mall-customerscsv
+
 # Hierarchical Clustering
 
 In hierarchical clustering, this new step also consists of finding the optimal number of clusters. Only this time we’re not going to use the elbow method. We are going to use the dendrogram.
@@ -14,10 +15,10 @@ Ward method is actually a method that tries to minimize the variance within each
 
 
 The x-axis consists of the customers and y-axis consists of the Euclidean distance between the clusters. How do we determine the optimal number of clusters from this diagram? We look for the largest distance that we can vertically without crossing any horizontal line and this one is the red framed line on the above diagram. Let's count the number of lines on the diagram and determine the optimal number of clusters. Cluster number will be 5 for this dataset.
-=======
+
 # Hierarchical-Clustering
 Unsupervised Machine Learning
 
 
-Dataset link - https://www.kaggle.com/kondapuramshivani/mall-customerscsv
->>>>>>> 52fc690af9c54ba76eaee50dac17bd3a7ce0ccae
+
+
